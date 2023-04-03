@@ -1,0 +1,20 @@
+
+.btn{
+	background: #876445;
+	color: #EEC373;
+	padding: 10px;
+	margin: 12px;
+	border-radius:4px;
+	box-shadow: 0 10px 30px rgba(0,0,0,.1); 
+	text-align: center;
+
+}
+
+.btn:hover{
+	background: #CA965C;
+	color: #EEC373;
+	padding: 10px;
+	margin: 12px;
+	border-radius:4px;
+	box-shadow: 0 10px 30px rgba(0,0,0,.1); 
+	text-align: center;

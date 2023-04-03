@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700|Aclonica");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/banner.css");
+
+@import url("components/btn.css");
+
+@import url("components/card.css");
+
+body {
+  font-family: 'Aclonica', serif;
+  font-size: 20px;
+  margin: 0px;
+  color: #F4DFBA;
+
+}
+h1, h2, h3 {
+  font-family: 'Aclonica', sans-serif;
+  font-weight: bold;
+  color: #876445;
+}
+
+h4{
+  font-family: 'Aclonica', sans-serif;
+  font-size: 50px;
+  font-weight: bold;
+  color: #F4DFBA;
+}
+
+h5{
+  font-size: 45px;
+  font-weight: lighter;
+  opacity: 0.8;
+  margin-bottom: 40px;
+  color: #F4DFBA;
+}
+
+a {
+  text-decoration: none;
+}
+
+@media (max-width:760px) {
+  .container {
+    width: 600px;
+  }
+}
+
+@media (max-width:500px) {
+  .container {
+    width: 400px;
+  }
+}
